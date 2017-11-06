@@ -22,4 +22,4 @@ Trên Openshift, Cloud
 Chúc may mắn!!!
 
 Hổ trợ: 
-    https://facebook.com/lpanel
+    https://www.facebook.com/Lpanel-921670574510723

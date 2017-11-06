@@ -4,6 +4,10 @@ https://www.botay.pro/lpanel/
 Sau khi cài xong thì bạn truy cập vào http://tenmien/z
 Đăng nhập mặc định: Tmc/123456
 
+                                VUI LÒNG TÔN TRỌNG QUYỀN TÁC GIẢ
+        HÃY CƯ XỬ NHƯ MỘT CON NGƯỜI KHI SỬ DỤNG MIỄN PHÍ THÀNH QUẢ CỦA NGƯỜI KHÁC!
+                           KHÔNG SỬA TÊN TÁC GIẢ THÀNH BẢN THÂN BẠN!
+
 Hướng dẫn:
 
 Trên host thông thường.
